@@ -1,0 +1,14 @@
+5fa9ff660195056c3e436992ed5bf7f8 *DESCRIPTION
+e6b513d30462b70ba2c47e51cbe8a88b *NAMESPACE
+eab5aca0a3eb0a9ea1d96b0cb386b015 *R/ERRci.R
+672bb3d45b469aebfa44335925b69e4e *R/fit.linERR.R
+adc67130777d11cbe8a15d94aa42bbec *R/plot.fit.linERR.R
+58258f6d1aa0cdc2aa2fb01dbb715bf2 *R/print.summary.fit.linERR.R
+d1f9a9084bd9a83c71a399375537bf19 *R/summary.fit.linERR.R
+3a6177f8e20be3076f3c4418e52abcc0 *data/cohort1.rda
+9b5ae85ca32978ca2ff0203d628f9d37 *man/ERRci.Rd
+d1d0ed4a6efe1933205acfa460251944 *man/cohort1.Rd
+cff9dfdf181ef8f6c797ea892349df79 *man/fit.linERR.Rd
+37b66f9a4f90d4147c95998c669a47d9 *man/linERR-internal.Rd
+e0afcb209e4b87a9a2f5df88c9e34286 *man/linERR-package.Rd
+fa67e07175ac499a4b26ea4446696e32 *src/llhood.c
